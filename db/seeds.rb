@@ -14,3 +14,5 @@
     likes: rand(1...50),
  )
 end
+
+puts 'items seeded'
