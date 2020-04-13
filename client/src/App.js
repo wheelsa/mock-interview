@@ -3,8 +3,8 @@ import {Switch, Route} from 'react-router-dom'
 
 import './App.css';
 
-import HomePage from './Pages/home.page';
-import AddItem from './Components/AddItem.Form';
+import HomePage from './Pages/Home.page';
+import AddItem from './Components/Forms/AddItem.Form';
 
 function App() {
   return (
